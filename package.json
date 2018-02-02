@@ -1,0 +1,25 @@
+{
+  "name": "superchat",
+  "version": "1.0.0",
+  "description": "hw mds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamarelo/superChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eamarelo/superChat/issues"
+  },
+  "homepage": "https://github.com/eamarelo/superChat#readme",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "eslint": "^4.16.0",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
